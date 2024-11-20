@@ -1,0 +1,68 @@
+.team-page {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .team-logo {
+    margin-top: 200px;
+    max-width: 512px;
+    max-height: 512px;
+    border-radius: 8px; /* Bordas levemente arredondadas */
+  }
+  
+  .team-name {
+    font-size: 3rem;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .team-motto {
+    font-size: 1.5rem;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  .team-location {
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 30px;
+  }
+  
+  .games-title {
+    font-size: 2rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .games-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .games-table th,
+  .games-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .games-table th {
+    background-color: #333;
+    color: white;
+    font-size: 1rem;
+  }
+  
+  .games-table td {
+    font-size: 0.9rem;
+  }
+  
+  .games-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .games-table tr:hover {
+    background-color: #ddd;
+  }
+  

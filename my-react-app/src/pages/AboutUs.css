@@ -1,0 +1,47 @@
+.about-us {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .team-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .team-member {
+    width: 300px;
+    text-align: center;
+  }
+  
+  .team-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .team-name {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+  
+  .team-role {
+    font-size: 1rem;
+    color: gray;
+    margin-bottom: 20px;
+  }
+  
+  .team-description {
+    height: 10em; /* Altura suficiente para 10 linhas de texto */
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
