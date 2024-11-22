@@ -30,6 +30,9 @@ const Navbar = () => {
         ) : (
           <>
             <li>
+              <Link to="/Register">Registro</Link>
+            </li>            
+            <li>
               <Link to="/AboutUs">Sobre Nós</Link>
             </li>
             <li>
